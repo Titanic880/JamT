@@ -1,0 +1,21 @@
+﻿jamT -> just another macro Tool
+
+Objectives:
+	Allow the user to Create:
+		1:1 Macros
+		1:Many Macros
+		Macro Chains?
+
+	Allow user to save macros to a human readable format and be capable of streaming that into the program
+
+Frontend Work:
+	UI Design (Get Gudder lul)
+	Give user as much control over inputs/outputs as possible
+
+
+Backend Work:
+	UI_Mimic Update for Forms.Keys[] input?
+	Macro Set Class/Struct
+	ability to delay between key inputs (and down/up inputs)
+	Ability for the user to input into a text field to 1:1 copy the input as an output (Delays and all)
+	 
